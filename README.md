@@ -1,1 +1,1 @@
-# Module-9-challenge
+Overview: This repository includes datasets of employees for Pewlett Hackard. The datasets are departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv, and titles.csv. The SQL query and Erd text is located in the main branch. Inside of the data folder contains the ERD structure and photos of the ERD along with datasets.
